@@ -7,7 +7,7 @@ window.SUPPORT_CONFIG = {
   contacts: {
     whatsapp1: false,
     whatsapp2: true,
-    whatsapp3: true,
+    whatsapp3: false,
     telegram1: true,
     telegram2: true,
     email: true,
